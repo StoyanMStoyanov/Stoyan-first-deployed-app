@@ -1,0 +1,16 @@
+{
+  "name": "lection27092016-modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "engines": {
+	"node": {6.7.x},
+	"npm": {3.10.x}
+  }
+  "author": "S. Stoyanov",
+  "license": "ISC",
+  "dependencies": {
+    "multiparty": "4.1.2"
+  }
+}
