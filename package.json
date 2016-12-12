@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+	"start": "nodeindex.js"
+	},
   "engines": {
 	"node": "6.7.x",
 	"npm": "3.10.x"
