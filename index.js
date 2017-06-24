@@ -6,7 +6,7 @@ let environment = process.env.NODE_ENV;
 http
 	.createServer((req, res) => {
 		res.writeHead(200);
-		res.write('Hi Stoyan from your first real deploued app.\nEnvironment: ' + 
+		res.write('Hi Stoyan from your first real deploped app.\nEnvironment: ' + 
 			environment + '. Port: ' + port + '.');
 		res.end();
 	})
